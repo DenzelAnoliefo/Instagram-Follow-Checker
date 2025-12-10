@@ -5,7 +5,7 @@ This tool uses the JSON data exported from Instagram’s official **“Download 
 
 ---
 
-## � Features
+## Features
 
 - Reads `followers_1.json` and `following.json` exported from Instagram.  
 - Extracts usernames from Instagram’s data structure.  
