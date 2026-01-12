@@ -5,18 +5,6 @@ This tool uses the JSON data exported from Instagram’s official **“Download 
 
 ---
 
-## Features
-
-- Reads `followers_1.json` and `following.json` exported from Instagram.  
-- Extracts usernames from Instagram’s data structure.  
-- Compares followers vs following using Python sets.  
-- Outputs:
-  - Total followers  
-  - Total following  
-  - List of users who don’t follow you back  
-
----
-
 ## Created By
 
 **Denzel Anoliefo** – [GitHub](https://github.com/DenzelAnoliefo)
